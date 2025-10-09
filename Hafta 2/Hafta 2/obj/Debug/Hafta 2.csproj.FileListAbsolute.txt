@@ -1,0 +1,10 @@
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\bin\Debug\Hafta 2.exe.config
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\bin\Debug\Hafta 2.exe
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\bin\Debug\Hafta 2.pdb
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\obj\Debug\Hafta 2.csproj.AssemblyReference.cache
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\obj\Debug\Hafta_2.Form1.resources
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\obj\Debug\Hafta_2.Properties.Resources.resources
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\obj\Debug\Hafta 2.csproj.GenerateResource.cache
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\obj\Debug\Hafta 2.csproj.CoreCompileInputs.cache
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\obj\Debug\Hafta 2.exe
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 2\Hafta 2\obj\Debug\Hafta 2.pdb
