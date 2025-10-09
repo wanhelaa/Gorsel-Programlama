@@ -1,0 +1,10 @@
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\obj\Debug\Haftaa 3.csproj.AssemblyReference.cache
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\obj\Debug\haftaa_3.Form1.resources
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\obj\Debug\Haftaa_3.Properties.Resources.resources
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\obj\Debug\Haftaa 3.csproj.GenerateResource.cache
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\obj\Debug\Haftaa 3.csproj.CoreCompileInputs.cache
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\bin\Debug\Haftaa 3.exe.config
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\bin\Debug\Haftaa 3.exe
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\bin\Debug\Haftaa 3.pdb
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\obj\Debug\Haftaa 3.exe
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\Hafta 3\Haftaa 3\Haftaa 3\obj\Debug\Haftaa 3.pdb
