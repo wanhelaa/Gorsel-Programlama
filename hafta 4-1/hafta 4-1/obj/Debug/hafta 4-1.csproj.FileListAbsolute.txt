@@ -1,0 +1,10 @@
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\bin\Debug\hafta 4-1.exe.config
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\bin\Debug\hafta 4-1.exe
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\bin\Debug\hafta 4-1.pdb
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\obj\Debug\hafta 4-1.csproj.AssemblyReference.cache
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\obj\Debug\hafta_4_1.Form1.resources
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\obj\Debug\hafta_4_1.Properties.Resources.resources
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\obj\Debug\hafta 4-1.csproj.GenerateResource.cache
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\obj\Debug\hafta 4-1.csproj.CoreCompileInputs.cache
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\obj\Debug\hafta 4-1.exe
+C:\Users\ela\OneDrive\Desktop\Görsel Programlama\Gorsel-Programlama\hafta 4-1\hafta 4-1\obj\Debug\hafta 4-1.pdb
